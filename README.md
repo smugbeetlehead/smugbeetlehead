@@ -1,6 +1,8 @@
 # Hi.
 I am a student.
 
+Links of my stupid discord bots :
+- [Linguine](https://discord.com/oauth2/authorize?client_id=1463753383855919300)
 
 <!--<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=file:///C:/Users/sinba/Downloads/python(2).svg&logoColor=white">-->
 
