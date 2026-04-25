@@ -1,5 +1,7 @@
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsmugbeetlehead&label=&icon=github&color=%23c29ffa&message=&style=flat&tz=UTC)  
-## of course zero hits cuz absolutely no one wants to view my profile!
+# Hi.
+I am a middle school student and I am very idiotic.
+
+<!--<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=file:///C:/Users/sinba/Downloads/python(2).svg&logoColor=white">-->
 
 <!--
 **smugbeetlehead/smugbeetlehead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
