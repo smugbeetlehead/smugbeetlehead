@@ -1,5 +1,6 @@
 # Hi.
-I am a middle school student and I am very idiotic.
+I am a student.
+
 
 <!--<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=file:///C:/Users/sinba/Downloads/python(2).svg&logoColor=white">-->
 
