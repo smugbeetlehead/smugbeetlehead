@@ -13,6 +13,7 @@ email - smugbeetlehead@gmail.com
 ### Discord bots :
 - [Linguine](https://discord.com/oauth2/authorize?client_id=1463753383855919300&permissions=8&integration_type=0&scope=bot+applications.commands)
 - [Deckard Cain](https://discord.com/oauth2/authorize?client_id=1497564184638918696&permissions=8&integration_type=0&scope=bot)
+- [Giorno Giovanna](https://discord.com/oauth2/authorize?client_id=1500100528347021483&permissions=8&integration_type=0&scope=bot)
 ---
 <!--<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=file:///C:/Users/sinba/Downloads/python(2).svg&logoColor=white">-->
 ## Stats
