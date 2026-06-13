@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi, I'm smugbeetlehead</h1>
 
 ---
@@ -16,11 +17,13 @@ email - smugbeetlehead@gmail.com
 - [Giorno Giovanna](https://discord.com/oauth2/authorize?client_id=1500100528347021483&permissions=8&integration_type=0&scope=bot)
 ---
 <!--<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=file:///C:/Users/sinba/Downloads/python(2).svg&logoColor=white">-->
+<!--
 ## Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=smugbeetlehead&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smugbeetlehead&layout=compact&theme=tokyonight" />
 </p>
+-->
 
 
 <!--
