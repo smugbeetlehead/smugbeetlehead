@@ -12,8 +12,8 @@ email - smugbeetlehead@gmail.com
 
 ### Discord bots :
 ## Active:
-- [Linguine Lemon](https://discord.com/oauth2/authorize?client_id=1518247230606282762&permissions=8&integration_type=0&scope=bot+applications.commands)
-- [Fluorine](https://discord.com/oauth2/authorize?client_id=1520388139938742403)
+- [Linguine Lemon](https://discord.com/oauth2/authorize?client_id=1518247230606282762&permissions=8&integration_type=0&scope=bot+applications.commands) (chatbot that is toxic)
+- [Fluorine](https://discord.com/oauth2/authorize?client_id=1520388139938742403) (moderation bot)
 ## Inactive : 
 - [Linguine](https://discord.com/oauth2/authorize?client_id=1463753383855919300&permissions=8&integration_type=0&scope=bot+applications.commands)
 - [Deckard Cain](https://discord.com/oauth2/authorize?client_id=1497564184638918696&permissions=8&integration_type=0&scope=bot)
